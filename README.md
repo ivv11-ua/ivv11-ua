@@ -1,22 +1,19 @@
-# Hi there, I'm Iván Valor Verdú 👋
+# Hi there, I'm Iván Valor Verdú 
 
-🎓 **Double Degree in Computer Engineering & Business Administration and Management (ADE)**  
-📍 *Banyeres de Mariola / Alicante, Spain*
+**Double Degree in Computer Engineering & Business Administration and Management (ADE)**  
 
 Proactive, consistent, and detail-oriented computer engineer with strong background in software development and business strategy. Passionate about learning new technologies and building efficient software solutions.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Currently completing my **Double Degree in Computer Engineering & ADE** at the **University of Alicante (UA)**.
-- ✈️ Completed a global mobility semester at **Pontificia Universidad Javeriana** (Cali, Colombia).
-- 💼 Experience in technology consulting & business process digitalization at **Advanced Business Digitalization S.L.**
-- 💬 Fluent in **Spanish**, **Catalan**, and proficient in **English** & **French**.
+- Completed a global mobility semester at **Pontificia Universidad Javeriana** (Cali, Colombia).
+- Experience in technology consulting & business process digitalization at **Advanced Business Digitalization S.L.**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,14 +38,13 @@ Proactive, consistent, and detail-oriented computer engineer with strong backgro
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-- 📱 **Sportly (TFG)**  
+- **Sportly (TFG)**  
   A fully operational mobile app developed with Flutter for searching and comparing sportswear across different providers.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
-- 📧 **Email:** [ivan.valor.verdu@gmail.com](mailto:ivan.valor.verdu@gmail.com)
-- 📍 **Location:** Alicante / Banyeres de Mariola, Spain
+- **Email:** [ivan.valor.verdu@gmail.com](mailto:ivan.valor.verdu@gmail.com)
