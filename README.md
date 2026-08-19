@@ -8,8 +8,8 @@ Proactive, consistent, and detail-oriented computer engineer with strong backgro
 
 ### About Me
 
-- Completed a global mobility semester at **Pontificia Universidad Javeriana** (Cali, Colombia).
-- Experience in technology consulting & business process digitalization at **Advanced Business Digitalization S.L.**
+- Completed a global mobility semester at Pontificia Universidad Javeriana (Cali, Colombia).
+- Experience in technology consulting & business process digitalization at Advanced Business Digitalization S.L.
 
 ---
 
